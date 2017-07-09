@@ -1,0 +1,6 @@
+This project is a simple React application for Pushtalents.
+
+To launch use the following commmand:
+    webpack
+
+Then open index.html with an internet browser.
